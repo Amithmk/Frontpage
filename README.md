@@ -1,2 +1,2 @@
 # Frontpage
-A simple porftfoli
+A simple porftfolio page
